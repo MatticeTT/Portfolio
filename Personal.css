@@ -9,7 +9,7 @@
     font-family: "Poppins", 
     sans-serif;
 }
-:root {
+:root{
     --bg-color: #2a312a;
     --second-bg-color: #131313;
     --text-color: white;
@@ -34,33 +34,33 @@ body{
     justify-content: space-between;
     flex-wrap: wrap;
 }
-.abt-col-1 {
+.abt-col-1{
     flax-basis: 35%;
 }
-.abt-col-1 img {
+.abt-col-1 img{
     width: 100%;
     border-radius: 15px;
 }
-.abt-col-2 {
+.abt-col-2{
     flex-basis: 60%;
 }
-.abtsubtitle {
+.abtsubtitle{
     font-size: 60px
     font-weight: 600;
     color: white;
 }
-.tabtitles {
+.tabtitles{
     display: flex;
     margin: 20px 0 40px;
 }
-.tablinks {
+.tablinks{
     margin-right: 50px;
     font-size: 18px;
     font-weight: 500;
     cursor: pointer;
     position: relative;
 }
-.tablinks::after {
+.tablinks::after{
     content: '';
     width: 0;
     height: 3px;
@@ -70,7 +70,7 @@ body{
     bottom: -8px;
     transition: 0.5s;
 }
-.tablinks.active-link::after {
+.tablinks.active-link::after{
     width: 50%;
 }
 
