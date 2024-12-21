@@ -35,7 +35,7 @@ body{
     flex-wrap: wrap;
 }
 .abt-col-1{
-    flax-basis: 35%;
+    flex-basis: 35%;
 }
 .abt-col-1 img{
     width: 100%;
