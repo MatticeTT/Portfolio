@@ -319,7 +319,7 @@ span{
     margin-bottom: 5rem;
 }
 .timeline-items{
-    max-width: 600px;
+    max-width: 1000px;
     margin: auto;
     display: flex;
     flex-wrap: wrap;
