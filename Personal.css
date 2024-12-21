@@ -355,7 +355,7 @@ span{
     box-shadow: 0 0 12px var(--main-color),
     0 0 24px var(--main-color);
     position: absolute;
-    left: calc(50% - 8px);
+    left: calc(50% - 4px);
     border-radius: 50%;
     top: 5px;
 }
