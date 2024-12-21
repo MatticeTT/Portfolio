@@ -24,6 +24,7 @@ body{
     background: var(--bg-color);
     color: var(--text-color);
 }
+
 #about{
     padding: 80px 0;
     color: white;
@@ -42,6 +43,11 @@ body{
 }
 .abt-col-2 {
     flex-basis: 60%;
+}
+.abtsubtitle {
+    font-size: 60px
+    font-weight: 600;
+    color: white;
 }
 
 .header{
